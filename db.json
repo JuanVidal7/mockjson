@@ -29,7 +29,6 @@
     {
       "id": 5,
       "picture": "../ferrerorocher.png",
-      "estilo": {"paddingTop": "50px", "paddingBottom": "50px"},
       "title": "Chocolates Ferrero Rocher",
       "description": "Los bombones están formados por una capa de barquillo rellena con pasta de cacao y avellanas, recubierta por una capa de chocolate con avellanas trituradas y una avellana entera en el interior, envueltos en papel metalizado y colocados individualmente sobre un molde de papel engrasado."
     },
@@ -50,14 +49,13 @@
     {
       "id": 8,
       "picture": "../greco.png",
-      "estilo": {"marginTop": "25%", "marginBottom": "25%"},
       "title": "Galletas Greco",
       "description": "El auténtico sabor del mediterráneo lo encuentras en las galletas Greco Kurabié, deliciosa combinación de mantequilla con almendras. Su exquisita y original receta griega los hace únicos."
     },
     {
       "id": 9,
       "picture": "../nuzart.png",
-      "estilo": {"width": "90%", "marginLeft": "5%", "marginTop": "7%"},
+      "estilo": {"width": "70%", "marginLeft": "15%", "marginTop": "7%"},
       "title": "Nuzart",
       "description": "Crema de Chocolate y Avellanas Duo, con chocolate negro y chocolate blanco."
     }
