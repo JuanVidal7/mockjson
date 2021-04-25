@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "picture": "../../public/hersheyblanca.png",
+      "picture": "./hersheyblanca.png",
       "title": "Chocolatina Hershey's Blanca",
       "description": "Cookies 'n' creme es una barrita de chocolate blanco con bits de galleta similares en sabor y textura a las Oreo."
     },
